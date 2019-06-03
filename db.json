@@ -1,22 +1,14 @@
 [
       {
         id: 1,
-        nameText: 'Kawhi Leonard' 
+        nameText: 'Volodymyr' 
       },
       {
         id: 2,
-        nameText: 'Mark Gasol' 
+        nameText: 'Iryna Broccolyna' 
       },
       {
         id: 3,
-        nameText: 'Pascal Siakam' 
-      },
-      {
-        id: 4,
-        nameText: 'Kyle Lowry' 
-      },
-      {
-        id: 5,
-        nameText: 'Danny Green' 
+        nameText: 'Buddha' 
       }
   ]
