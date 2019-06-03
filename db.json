@@ -1,14 +1,14 @@
 [
       {
-        id: 1,
-        nameText: 'Volodymyr' 
+        "id": 1,
+        "nameText": "Volodymyr" 
       },
       {
-        id: 2,
-        nameText: 'Iryna Broccolyna' 
+        "id": 2,
+        "nameText": "Iryna Broccolyna"
       },
       {
-        id: 3,
-        nameText: 'Buddha' 
+        "id": 3,
+        "nameText": "Buddha"
       }
   ]
