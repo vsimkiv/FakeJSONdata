@@ -10,12 +10,11 @@
       {
         id: 3,
         nameText: 'Pascal Siakam' 
-      }
-      
+      },
       {
         id: 4,
         nameText: 'Kyle Lowry' 
-      }
+      },
       {
         id: 5,
         nameText: 'Danny Green' 
